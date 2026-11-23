@@ -22,4 +22,4 @@ Most common SVM mistake: true 4 predicted as 8 (2 images).
 Small low-resolution images, not a deep convolutional network, and not a real-world image task. Hyperparameters were set by hand on this split, not by cross-validation, so the SVM number is somewhat optimistic. A CNN on MNIST or a medical-image set would be the next step.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
